@@ -1,0 +1,13 @@
+<mxfile host="65bd71144e">
+    <diagram id="ZWInI3Pr3ukH3HSX9v4q" name="Page-1">
+        <mxGraphModel dx="1002" dy="417" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="&lt;font style=&quot;font-size: 21px;&quot;&gt;&lt;b&gt;&lt;br&gt;1.Create a Python program that defines a constant for the value of PI and uses it to calculate the&lt;br&gt; circumference of a circle with a user-given radius&lt;br&gt;2.Write a Python program that takes two numbers as input and calculates both their sum and&lt;br/&gt; difference.&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=6;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
+                    <mxGeometry x="50" y="310" width="780" height="220" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
